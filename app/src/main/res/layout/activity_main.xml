@@ -14,7 +14,7 @@
         android:id="@+id/titleTV"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Gra w kości. Autor: Bohdan Masnyi"
+        android:text="Gra w kości. Autor: Paweł Sadowski"
         android:textSize="22sp"
         android:background="#a52a2a"
         android:textColor="@color/white"
